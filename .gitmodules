@@ -1,0 +1,6 @@
+[submodule "etl_model"]
+	path = etl_model
+	url = https://github.com/HANKFORSHORT/tmdb_etl_model
+[submodule "website"]
+	path = website
+	url = https://github.com/HANKFORSHORT/penguindb_web_tmdb_replica
