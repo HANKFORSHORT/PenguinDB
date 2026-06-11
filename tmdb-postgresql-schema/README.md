@@ -12,15 +12,14 @@ tmdb-postgresql-schema/
 ├── sql/
 │   ├── 01_create_tables.sql
 │   └── 02_functions_triggers_procedures.sql
-├── create_table_postgreSQL.docx
-└── function_trigger_procedure_-_cutdown.docx
+
 ```
 
 | File | Description |
 |------|-------------|
 | `sql/01_create_tables.sql` | All `CREATE TABLE` statements |
 | `sql/02_functions_triggers_procedures.sql` | Functions, triggers, and stored procedures |
-| `*.docx` | Original source documents |
+
 
 ---
 
